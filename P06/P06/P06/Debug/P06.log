@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\homework\P06\source\Main.c(14,8): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+Main.obj : error LNK2019: 無法解析的外部符號 _printf 在函式 _main 中被參考
+C:\homework\P06\P06\Debug\P06.exe : fatal error LNK1120: 1 個無法解析的外部符號
